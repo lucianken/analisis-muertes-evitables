@@ -1,0 +1,652 @@
+ANIO,descripcion,DEF_AMENABLES,GRUPO
+2005,Enfermedad cerebrovascular,9041.00,Cardiovascular
+2005,Cardiopatía isquémica (50%),4671.00,Cardiovascular
+2005,Hipertensión arterial,1889.00,Cardiovascular
+2005,Enf. reumática cardíaca crónica,79.00,Cardiovascular
+2005,Anomalías cardiovasculares congénitas,988.00,Congénito
+2005,Úlcera péptica,137.00,Digestivo
+2005,Colelitiasis y colecistitis,124.00,Digestivo
+2005,Hernia abdominal,80.00,Digestivo
+2005,Apendicitis,29.00,Digestivo
+2005,Diabetes mellitus,365.00,Endócrino/Metabólico
+2005,Enfermedades del tiroides,75.00,Endócrino/Metabólico
+2005,Accidentes durante atención médica,996.00,Iatrogénico
+2005,Septicemia,4456.00,Infecciosas
+2005,Tuberculosis y secuelas,533.00,Infecciosas
+2005,Infecciones intestinales,134.00,Infecciosas
+2005,Tétanos,9.00,Infecciosas
+2005,Tos convulsa,8.00,Infecciosas
+2005,Muertes perinatales,4884.00,Materno-Perinatal
+2005,Muerte materna,289.00,Materno-Perinatal
+2005,Ca. mama,3439.00,Neoplasias
+2005,Ca. colon y recto,3355.00,Neoplasias
+2005,Ca. cuello uterino,815.00,Neoplasias
+2005,Leucemia,496.00,Neoplasias
+2005,Ca. testículo,132.00,Neoplasias
+2005,Ca. cuerpo uterino,126.00,Neoplasias
+2005,Enfermedad de Hodgkin,116.00,Neoplasias
+2005,Ca. piel (no melanoma),109.00,Neoplasias
+2005,Epilepsia,226.00,Neurológico
+2005,Neumonía,4340.00,Respiratorio
+2005,Enf. respiratorias excl. neumonía e influenza (1-14),167.00,Respiratorio
+2005,Influenza,7.00,Respiratorio
+2005,Nefritis y nefrosis,2777.00,Urogenital
+2005,Hiperplasia benigna de próstata,8.00,Urogenital
+2006,Enfermedad cerebrovascular,8779.00,Cardiovascular
+2006,Cardiopatía isquémica (50%),4518.50,Cardiovascular
+2006,Hipertensión arterial,1761.00,Cardiovascular
+2006,Enf. reumática cardíaca crónica,81.00,Cardiovascular
+2006,Anomalías cardiovasculares congénitas,984.00,Congénito
+2006,Úlcera péptica,169.00,Digestivo
+2006,Colelitiasis y colecistitis,149.00,Digestivo
+2006,Hernia abdominal,78.00,Digestivo
+2006,Apendicitis,40.00,Digestivo
+2006,Diabetes mellitus,352.00,Endócrino/Metabólico
+2006,Enfermedades del tiroides,64.00,Endócrino/Metabólico
+2006,Accidentes durante atención médica,1090.00,Iatrogénico
+2006,Septicemia,4421.00,Infecciosas
+2006,Tuberculosis y secuelas,534.00,Infecciosas
+2006,Infecciones intestinales,148.00,Infecciosas
+2006,Tos convulsa,21.00,Infecciosas
+2006,Tétanos,2.00,Infecciosas
+2006,Muertes perinatales,4368.00,Materno-Perinatal
+2006,Muerte materna,341.00,Materno-Perinatal
+2006,Ca. mama,3419.00,Neoplasias
+2006,Ca. colon y recto,3374.00,Neoplasias
+2006,Ca. cuello uterino,855.00,Neoplasias
+2006,Leucemia,413.00,Neoplasias
+2006,Ca. testículo,161.00,Neoplasias
+2006,Ca. cuerpo uterino,147.00,Neoplasias
+2006,Ca. piel (no melanoma),121.00,Neoplasias
+2006,Enfermedad de Hodgkin,120.00,Neoplasias
+2006,Epilepsia,198.00,Neurológico
+2006,Neumonía,4536.00,Respiratorio
+2006,Enf. respiratorias excl. neumonía e influenza (1-14),200.00,Respiratorio
+2006,Influenza,11.00,Respiratorio
+2006,Nefritis y nefrosis,2845.00,Urogenital
+2006,Hiperplasia benigna de próstata,19.00,Urogenital
+2007,Enfermedad cerebrovascular,8530.00,Cardiovascular
+2007,Cardiopatía isquémica (50%),4604.50,Cardiovascular
+2007,Hipertensión arterial,1808.00,Cardiovascular
+2007,Enf. reumática cardíaca crónica,92.00,Cardiovascular
+2007,Anomalías cardiovasculares congénitas,986.00,Congénito
+2007,Úlcera péptica,169.00,Digestivo
+2007,Colelitiasis y colecistitis,120.00,Digestivo
+2007,Hernia abdominal,98.00,Digestivo
+2007,Apendicitis,38.00,Digestivo
+2007,Diabetes mellitus,377.00,Endócrino/Metabólico
+2007,Enfermedades del tiroides,66.00,Endócrino/Metabólico
+2007,Accidentes durante atención médica,1102.00,Iatrogénico
+2007,Septicemia,4591.00,Infecciosas
+2007,Tuberculosis y secuelas,507.00,Infecciosas
+2007,Infecciones intestinales,117.00,Infecciosas
+2007,Tos convulsa,44.00,Infecciosas
+2007,Tétanos,1.00,Infecciosas
+2007,Muertes perinatales,4533.00,Materno-Perinatal
+2007,Muerte materna,333.00,Materno-Perinatal
+2007,Ca. mama,3486.00,Neoplasias
+2007,Ca. colon y recto,3416.00,Neoplasias
+2007,Ca. cuello uterino,866.00,Neoplasias
+2007,Leucemia,483.00,Neoplasias
+2007,Ca. testículo,159.00,Neoplasias
+2007,Ca. cuerpo uterino,148.00,Neoplasias
+2007,Ca. piel (no melanoma),141.00,Neoplasias
+2007,Enfermedad de Hodgkin,117.00,Neoplasias
+2007,Epilepsia,194.00,Neurológico
+2007,Neumonía,5212.00,Respiratorio
+2007,Enf. respiratorias excl. neumonía e influenza (1-14),200.00,Respiratorio
+2007,Influenza,7.00,Respiratorio
+2007,Nefritis y nefrosis,3081.00,Urogenital
+2007,Hiperplasia benigna de próstata,14.00,Urogenital
+2008,Enfermedad cerebrovascular,8420.00,Cardiovascular
+2008,Cardiopatía isquémica (50%),4280.00,Cardiovascular
+2008,Hipertensión arterial,1810.00,Cardiovascular
+2008,Enf. reumática cardíaca crónica,90.00,Cardiovascular
+2008,Anomalías cardiovasculares congénitas,1043.00,Congénito
+2008,Úlcera péptica,157.00,Digestivo
+2008,Colelitiasis y colecistitis,138.00,Digestivo
+2008,Hernia abdominal,89.00,Digestivo
+2008,Apendicitis,31.00,Digestivo
+2008,Diabetes mellitus,303.00,Endócrino/Metabólico
+2008,Enfermedades del tiroides,36.00,Endócrino/Metabólico
+2008,Accidentes durante atención médica,1107.00,Iatrogénico
+2008,Septicemia,4477.00,Infecciosas
+2008,Tuberculosis y secuelas,457.00,Infecciosas
+2008,Infecciones intestinales,126.00,Infecciosas
+2008,Tos convulsa,51.00,Infecciosas
+2008,Tétanos,1.00,Infecciosas
+2008,Muertes perinatales,4697.00,Materno-Perinatal
+2008,Muerte materna,320.00,Materno-Perinatal
+2008,Ca. colon y recto,3573.00,Neoplasias
+2008,Ca. mama,3337.00,Neoplasias
+2008,Ca. cuello uterino,883.00,Neoplasias
+2008,Leucemia,427.00,Neoplasias
+2008,Ca. cuerpo uterino,161.00,Neoplasias
+2008,Ca. testículo,140.00,Neoplasias
+2008,Enfermedad de Hodgkin,129.00,Neoplasias
+2008,Ca. piel (no melanoma),125.00,Neoplasias
+2008,Epilepsia,233.00,Neurológico
+2008,Neumonía,4827.00,Respiratorio
+2008,Enf. respiratorias excl. neumonía e influenza (1-14),152.00,Respiratorio
+2008,Influenza,1.00,Respiratorio
+2008,Nefritis y nefrosis,2726.00,Urogenital
+2008,Hiperplasia benigna de próstata,8.00,Urogenital
+2009,Enfermedad cerebrovascular,7912.00,Cardiovascular
+2009,Cardiopatía isquémica (50%),4336.50,Cardiovascular
+2009,Hipertensión arterial,1818.00,Cardiovascular
+2009,Enf. reumática cardíaca crónica,127.00,Cardiovascular
+2009,Anomalías cardiovasculares congénitas,1010.00,Congénito
+2009,Úlcera péptica,132.00,Digestivo
+2009,Colelitiasis y colecistitis,110.00,Digestivo
+2009,Hernia abdominal,86.00,Digestivo
+2009,Apendicitis,36.00,Digestivo
+2009,Diabetes mellitus,355.00,Endócrino/Metabólico
+2009,Enfermedades del tiroides,55.00,Endócrino/Metabólico
+2009,Accidentes durante atención médica,867.00,Iatrogénico
+2009,Septicemia,4356.00,Infecciosas
+2009,Tuberculosis y secuelas,487.00,Infecciosas
+2009,Infecciones intestinales,136.00,Infecciosas
+2009,Tos convulsa,15.00,Infecciosas
+2009,Tétanos,5.00,Infecciosas
+2009,Muertes perinatales,4420.00,Materno-Perinatal
+2009,Muerte materna,426.00,Materno-Perinatal
+2009,Ca. colon y recto,3633.00,Neoplasias
+2009,Ca. mama,3405.00,Neoplasias
+2009,Ca. cuello uterino,894.00,Neoplasias
+2009,Leucemia,517.00,Neoplasias
+2009,Ca. cuerpo uterino,162.00,Neoplasias
+2009,Ca. testículo,160.00,Neoplasias
+2009,Enfermedad de Hodgkin,134.00,Neoplasias
+2009,Ca. piel (no melanoma),123.00,Neoplasias
+2009,Epilepsia,231.00,Neurológico
+2009,Neumonía,6379.00,Respiratorio
+2009,Enf. respiratorias excl. neumonía e influenza (1-14),215.00,Respiratorio
+2009,Influenza,20.00,Respiratorio
+2009,Nefritis y nefrosis,2709.00,Urogenital
+2009,Hiperplasia benigna de próstata,8.00,Urogenital
+2010,Enfermedad cerebrovascular,7950.00,Cardiovascular
+2010,Cardiopatía isquémica (50%),4536.50,Cardiovascular
+2010,Hipertensión arterial,1984.00,Cardiovascular
+2010,Enf. reumática cardíaca crónica,103.00,Cardiovascular
+2010,Anomalías cardiovasculares congénitas,1004.00,Congénito
+2010,Úlcera péptica,149.00,Digestivo
+2010,Colelitiasis y colecistitis,116.00,Digestivo
+2010,Hernia abdominal,92.00,Digestivo
+2010,Apendicitis,44.00,Digestivo
+2010,Diabetes mellitus,351.00,Endócrino/Metabólico
+2010,Enfermedades del tiroides,51.00,Endócrino/Metabólico
+2010,Accidentes durante atención médica,902.00,Iatrogénico
+2010,Septicemia,4675.00,Infecciosas
+2010,Tuberculosis y secuelas,411.00,Infecciosas
+2010,Infecciones intestinales,144.00,Infecciosas
+2010,Tos convulsa,16.00,Infecciosas
+2010,Tétanos,3.00,Infecciosas
+2010,Muertes perinatales,4462.00,Materno-Perinatal
+2010,Muerte materna,332.00,Materno-Perinatal
+2010,Ca. colon y recto,3662.00,Neoplasias
+2010,Ca. mama,3489.00,Neoplasias
+2010,Ca. cuello uterino,856.00,Neoplasias
+2010,Leucemia,410.00,Neoplasias
+2010,Ca. testículo,159.00,Neoplasias
+2010,Ca. cuerpo uterino,150.00,Neoplasias
+2010,Ca. piel (no melanoma),133.00,Neoplasias
+2010,Enfermedad de Hodgkin,90.00,Neoplasias
+2010,Epilepsia,209.00,Neurológico
+2010,Neumonía,5557.00,Respiratorio
+2010,Enf. respiratorias excl. neumonía e influenza (1-14),153.00,Respiratorio
+2010,Influenza,13.00,Respiratorio
+2010,Nefritis y nefrosis,2786.00,Urogenital
+2010,Hiperplasia benigna de próstata,6.00,Urogenital
+2011,Enfermedad cerebrovascular,7633.00,Cardiovascular
+2011,Cardiopatía isquémica (50%),4585.50,Cardiovascular
+2011,Hipertensión arterial,1823.00,Cardiovascular
+2011,Enf. reumática cardíaca crónica,85.00,Cardiovascular
+2011,Anomalías cardiovasculares congénitas,972.00,Congénito
+2011,Úlcera péptica,136.00,Digestivo
+2011,Colelitiasis y colecistitis,108.00,Digestivo
+2011,Hernia abdominal,80.00,Digestivo
+2011,Apendicitis,45.00,Digestivo
+2011,Diabetes mellitus,392.00,Endócrino/Metabólico
+2011,Enfermedades del tiroides,53.00,Endócrino/Metabólico
+2011,Accidentes durante atención médica,1058.00,Iatrogénico
+2011,Septicemia,4629.00,Infecciosas
+2011,Tuberculosis y secuelas,472.00,Infecciosas
+2011,Infecciones intestinales,113.00,Infecciosas
+2011,Tos convulsa,74.00,Infecciosas
+2011,Tétanos,2.00,Infecciosas
+2011,Muertes perinatales,4320.00,Materno-Perinatal
+2011,Muerte materna,319.00,Materno-Perinatal
+2011,Ca. colon y recto,3707.00,Neoplasias
+2011,Ca. mama,3451.00,Neoplasias
+2011,Ca. cuello uterino,850.00,Neoplasias
+2011,Leucemia,421.00,Neoplasias
+2011,Ca. testículo,178.00,Neoplasias
+2011,Ca. cuerpo uterino,170.00,Neoplasias
+2011,Ca. piel (no melanoma),116.00,Neoplasias
+2011,Enfermedad de Hodgkin,102.00,Neoplasias
+2011,Epilepsia,211.00,Neurológico
+2011,Neumonía,5638.00,Respiratorio
+2011,Enf. respiratorias excl. neumonía e influenza (1-14),150.00,Respiratorio
+2011,Influenza,6.00,Respiratorio
+2011,Nefritis y nefrosis,2672.00,Urogenital
+2011,Hiperplasia benigna de próstata,6.00,Urogenital
+2012,Enfermedad cerebrovascular,7766.00,Cardiovascular
+2012,Cardiopatía isquémica (50%),4800.00,Cardiovascular
+2012,Hipertensión arterial,1879.00,Cardiovascular
+2012,Enf. reumática cardíaca crónica,69.00,Cardiovascular
+2012,Anomalías cardiovasculares congénitas,962.00,Congénito
+2012,Úlcera péptica,153.00,Digestivo
+2012,Colelitiasis y colecistitis,122.00,Digestivo
+2012,Hernia abdominal,92.00,Digestivo
+2012,Apendicitis,41.00,Digestivo
+2012,Diabetes mellitus,392.00,Endócrino/Metabólico
+2012,Enfermedades del tiroides,47.00,Endócrino/Metabólico
+2012,Accidentes durante atención médica,988.00,Iatrogénico
+2012,Septicemia,4559.00,Infecciosas
+2012,Tuberculosis y secuelas,455.00,Infecciosas
+2012,Infecciones intestinales,92.00,Infecciosas
+2012,Tos convulsa,32.00,Infecciosas
+2012,Tétanos,1.00,Infecciosas
+2012,Muertes perinatales,3996.00,Materno-Perinatal
+2012,Muerte materna,280.00,Materno-Perinatal
+2012,Ca. colon y recto,3701.00,Neoplasias
+2012,Ca. mama,3568.00,Neoplasias
+2012,Ca. cuello uterino,881.00,Neoplasias
+2012,Leucemia,449.00,Neoplasias
+2012,Ca. testículo,169.00,Neoplasias
+2012,Ca. cuerpo uterino,148.00,Neoplasias
+2012,Ca. piel (no melanoma),141.00,Neoplasias
+2012,Enfermedad de Hodgkin,128.00,Neoplasias
+2012,Epilepsia,241.00,Neurológico
+2012,Neumonía,5901.00,Respiratorio
+2012,Enf. respiratorias excl. neumonía e influenza (1-14),190.00,Respiratorio
+2012,Influenza,6.00,Respiratorio
+2012,Nefritis y nefrosis,2956.00,Urogenital
+2012,Hiperplasia benigna de próstata,15.00,Urogenital
+2013,Enfermedad cerebrovascular,7752.00,Cardiovascular
+2013,Cardiopatía isquémica (50%),4803.00,Cardiovascular
+2013,Hipertensión arterial,1787.00,Cardiovascular
+2013,Enf. reumática cardíaca crónica,75.00,Cardiovascular
+2013,Anomalías cardiovasculares congénitas,1018.00,Congénito
+2013,Úlcera péptica,158.00,Digestivo
+2013,Hernia abdominal,120.00,Digestivo
+2013,Colelitiasis y colecistitis,113.00,Digestivo
+2013,Apendicitis,48.00,Digestivo
+2013,Diabetes mellitus,413.00,Endócrino/Metabólico
+2013,Enfermedades del tiroides,44.00,Endócrino/Metabólico
+2013,Accidentes durante atención médica,1051.00,Iatrogénico
+2013,Septicemia,4680.00,Infecciosas
+2013,Tuberculosis y secuelas,492.00,Infecciosas
+2013,Infecciones intestinales,105.00,Infecciosas
+2013,Tos convulsa,11.00,Infecciosas
+2013,Tétanos,5.00,Infecciosas
+2013,Muertes perinatales,4146.00,Materno-Perinatal
+2013,Muerte materna,272.00,Materno-Perinatal
+2013,Ca. colon y recto,3949.00,Neoplasias
+2013,Ca. mama,3654.00,Neoplasias
+2013,Ca. cuello uterino,948.00,Neoplasias
+2013,Leucemia,449.00,Neoplasias
+2013,Ca. cuerpo uterino,187.00,Neoplasias
+2013,Ca. testículo,175.00,Neoplasias
+2013,Ca. piel (no melanoma),138.00,Neoplasias
+2013,Enfermedad de Hodgkin,134.00,Neoplasias
+2013,Epilepsia,280.00,Neurológico
+2013,Neumonía,6684.00,Respiratorio
+2013,Enf. respiratorias excl. neumonía e influenza (1-14),138.00,Respiratorio
+2013,Influenza,31.00,Respiratorio
+2013,Nefritis y nefrosis,3228.00,Urogenital
+2013,Hiperplasia benigna de próstata,12.00,Urogenital
+2014,Enfermedad cerebrovascular,8054.00,Cardiovascular
+2014,Cardiopatía isquémica (50%),4711.00,Cardiovascular
+2014,Hipertensión arterial,1744.00,Cardiovascular
+2014,Enf. reumática cardíaca crónica,77.00,Cardiovascular
+2014,Anomalías cardiovasculares congénitas,1021.00,Congénito
+2014,Úlcera péptica,170.00,Digestivo
+2014,Colelitiasis y colecistitis,131.00,Digestivo
+2014,Hernia abdominal,117.00,Digestivo
+2014,Apendicitis,50.00,Digestivo
+2014,Diabetes mellitus,374.00,Endócrino/Metabólico
+2014,Enfermedades del tiroides,46.00,Endócrino/Metabólico
+2014,Accidentes durante atención médica,830.00,Iatrogénico
+2014,Septicemia,4574.00,Infecciosas
+2014,Tuberculosis y secuelas,480.00,Infecciosas
+2014,Infecciones intestinales,113.00,Infecciosas
+2014,Tos convulsa,4.00,Infecciosas
+2014,Tétanos,1.00,Infecciosas
+2014,Muertes perinatales,4122.00,Materno-Perinatal
+2014,Muerte materna,303.00,Materno-Perinatal
+2014,Ca. colon y recto,4118.00,Neoplasias
+2014,Ca. mama,3618.00,Neoplasias
+2014,Ca. cuello uterino,967.00,Neoplasias
+2014,Leucemia,467.00,Neoplasias
+2014,Ca. cuerpo uterino,179.00,Neoplasias
+2014,Ca. testículo,176.00,Neoplasias
+2014,Enfermedad de Hodgkin,142.00,Neoplasias
+2014,Ca. piel (no melanoma),128.00,Neoplasias
+2014,Epilepsia,258.00,Neurológico
+2014,Neumonía,6755.00,Respiratorio
+2014,Enf. respiratorias excl. neumonía e influenza (1-14),164.00,Respiratorio
+2014,Nefritis y nefrosis,3249.00,Urogenital
+2014,Hiperplasia benigna de próstata,9.00,Urogenital
+2015,Enfermedad cerebrovascular,8478.00,Cardiovascular
+2015,Cardiopatía isquémica (50%),5071.50,Cardiovascular
+2015,Hipertensión arterial,2268.00,Cardiovascular
+2015,Enf. reumática cardíaca crónica,76.00,Cardiovascular
+2015,Anomalías cardiovasculares congénitas,938.00,Congénito
+2015,Úlcera péptica,194.00,Digestivo
+2015,Colelitiasis y colecistitis,184.00,Digestivo
+2015,Hernia abdominal,138.00,Digestivo
+2015,Apendicitis,52.00,Digestivo
+2015,Diabetes mellitus,421.00,Endócrino/Metabólico
+2015,Enfermedades del tiroides,45.00,Endócrino/Metabólico
+2015,Accidentes durante atención médica,981.00,Iatrogénico
+2015,Septicemia,4015.00,Infecciosas
+2015,Tuberculosis y secuelas,474.00,Infecciosas
+2015,Infecciones intestinales,99.00,Infecciosas
+2015,Tos convulsa,12.00,Infecciosas
+2015,Tétanos,5.00,Infecciosas
+2015,Muertes perinatales,3706.00,Materno-Perinatal
+2015,Muerte materna,332.00,Materno-Perinatal
+2015,Ca. colon y recto,4197.00,Neoplasias
+2015,Ca. mama,3726.00,Neoplasias
+2015,Ca. cuello uterino,988.00,Neoplasias
+2015,Leucemia,473.00,Neoplasias
+2015,Ca. testículo,197.00,Neoplasias
+2015,Ca. cuerpo uterino,177.00,Neoplasias
+2015,Enfermedad de Hodgkin,151.00,Neoplasias
+2015,Ca. piel (no melanoma),144.00,Neoplasias
+2015,Epilepsia,276.00,Neurológico
+2015,Neumonía,7640.00,Respiratorio
+2015,Enf. respiratorias excl. neumonía e influenza (1-14),124.00,Respiratorio
+2015,Influenza,5.00,Respiratorio
+2015,Nefritis y nefrosis,3460.00,Urogenital
+2015,Hiperplasia benigna de próstata,11.00,Urogenital
+2016,Enfermedad cerebrovascular,8964.00,Cardiovascular
+2016,Cardiopatía isquémica (50%),5324.50,Cardiovascular
+2016,Hipertensión arterial,2324.00,Cardiovascular
+2016,Enf. reumática cardíaca crónica,66.00,Cardiovascular
+2016,Anomalías cardiovasculares congénitas,873.00,Congénito
+2016,Úlcera péptica,212.00,Digestivo
+2016,Colelitiasis y colecistitis,156.00,Digestivo
+2016,Hernia abdominal,118.00,Digestivo
+2016,Apendicitis,55.00,Digestivo
+2016,Diabetes mellitus,507.00,Endócrino/Metabólico
+2016,Enfermedades del tiroides,57.00,Endócrino/Metabólico
+2016,Accidentes durante atención médica,1011.00,Iatrogénico
+2016,Septicemia,4191.00,Infecciosas
+2016,Tuberculosis y secuelas,497.00,Infecciosas
+2016,Infecciones intestinales,93.00,Infecciosas
+2016,Tos convulsa,23.00,Infecciosas
+2016,Tétanos,2.00,Infecciosas
+2016,Muertes perinatales,3485.00,Materno-Perinatal
+2016,Muerte materna,285.00,Materno-Perinatal
+2016,Ca. colon y recto,4207.00,Neoplasias
+2016,Ca. mama,3761.00,Neoplasias
+2016,Ca. cuello uterino,1051.00,Neoplasias
+2016,Leucemia,483.00,Neoplasias
+2016,Ca. cuerpo uterino,194.00,Neoplasias
+2016,Ca. testículo,193.00,Neoplasias
+2016,Enfermedad de Hodgkin,166.00,Neoplasias
+2016,Ca. piel (no melanoma),154.00,Neoplasias
+2016,Epilepsia,292.00,Neurológico
+2016,Neumonía,9968.00,Respiratorio
+2016,Enf. respiratorias excl. neumonía e influenza (1-14),176.00,Respiratorio
+2016,Influenza,35.00,Respiratorio
+2016,Nefritis y nefrosis,3286.00,Urogenital
+2016,Hiperplasia benigna de próstata,11.00,Urogenital
+2017,Enfermedad cerebrovascular,8196.00,Cardiovascular
+2017,Cardiopatía isquémica (50%),5116.50,Cardiovascular
+2017,Hipertensión arterial,2256.00,Cardiovascular
+2017,Enf. reumática cardíaca crónica,53.00,Cardiovascular
+2017,Anomalías cardiovasculares congénitas,863.00,Congénito
+2017,Úlcera péptica,161.00,Digestivo
+2017,Colelitiasis y colecistitis,150.00,Digestivo
+2017,Hernia abdominal,137.00,Digestivo
+2017,Apendicitis,35.00,Digestivo
+2017,Diabetes mellitus,476.00,Endócrino/Metabólico
+2017,Enfermedades del tiroides,44.00,Endócrino/Metabólico
+2017,Accidentes durante atención médica,945.00,Iatrogénico
+2017,Septicemia,4065.00,Infecciosas
+2017,Tuberculosis y secuelas,454.00,Infecciosas
+2017,Infecciones intestinales,71.00,Infecciosas
+2017,Tos convulsa,5.00,Infecciosas
+2017,Tétanos,1.00,Infecciosas
+2017,Muertes perinatales,3381.00,Materno-Perinatal
+2017,Muerte materna,245.00,Materno-Perinatal
+2017,Ca. colon y recto,4257.00,Neoplasias
+2017,Ca. mama,3859.00,Neoplasias
+2017,Ca. cuello uterino,1088.00,Neoplasias
+2017,Leucemia,492.00,Neoplasias
+2017,Ca. testículo,185.00,Neoplasias
+2017,Ca. piel (no melanoma),168.00,Neoplasias
+2017,Ca. cuerpo uterino,167.00,Neoplasias
+2017,Enfermedad de Hodgkin,152.00,Neoplasias
+2017,Epilepsia,281.00,Neurológico
+2017,Neumonía,8873.00,Respiratorio
+2017,Enf. respiratorias excl. neumonía e influenza (1-14),151.00,Respiratorio
+2017,Influenza,12.00,Respiratorio
+2017,Nefritis y nefrosis,3262.00,Urogenital
+2017,Hiperplasia benigna de próstata,10.00,Urogenital
+2018,Enfermedad cerebrovascular,8136.00,Cardiovascular
+2018,Cardiopatía isquémica (50%),5057.00,Cardiovascular
+2018,Hipertensión arterial,2004.00,Cardiovascular
+2018,Enf. reumática cardíaca crónica,60.00,Cardiovascular
+2018,Anomalías cardiovasculares congénitas,786.00,Congénito
+2018,Úlcera péptica,202.00,Digestivo
+2018,Colelitiasis y colecistitis,147.00,Digestivo
+2018,Hernia abdominal,124.00,Digestivo
+2018,Apendicitis,51.00,Digestivo
+2018,Diabetes mellitus,501.00,Endócrino/Metabólico
+2018,Enfermedades del tiroides,60.00,Endócrino/Metabólico
+2018,Accidentes durante atención médica,983.00,Iatrogénico
+2018,Septicemia,4274.00,Infecciosas
+2018,Tuberculosis y secuelas,490.00,Infecciosas
+2018,Infecciones intestinales,53.00,Infecciosas
+2018,Tos convulsa,3.00,Infecciosas
+2018,Tétanos,2.00,Infecciosas
+2018,Muertes perinatales,3029.00,Materno-Perinatal
+2018,Muerte materna,294.00,Materno-Perinatal
+2018,Ca. colon y recto,4197.00,Neoplasias
+2018,Ca. mama,3740.00,Neoplasias
+2018,Ca. cuello uterino,1133.00,Neoplasias
+2018,Leucemia,453.00,Neoplasias
+2018,Ca. testículo,209.00,Neoplasias
+2018,Ca. cuerpo uterino,176.00,Neoplasias
+2018,Ca. piel (no melanoma),142.00,Neoplasias
+2018,Enfermedad de Hodgkin,111.00,Neoplasias
+2018,Epilepsia,255.00,Neurológico
+2018,Neumonía,9097.00,Respiratorio
+2018,Enf. respiratorias excl. neumonía e influenza (1-14),152.00,Respiratorio
+2018,Influenza,27.00,Respiratorio
+2018,Nefritis y nefrosis,3518.00,Urogenital
+2018,Hiperplasia benigna de próstata,16.00,Urogenital
+2019,Enfermedad cerebrovascular,7954.00,Cardiovascular
+2019,Cardiopatía isquémica (50%),5091.00,Cardiovascular
+2019,Hipertensión arterial,2047.00,Cardiovascular
+2019,Enf. reumática cardíaca crónica,77.00,Cardiovascular
+2019,Anomalías cardiovasculares congénitas,759.00,Congénito
+2019,Úlcera péptica,172.00,Digestivo
+2019,Colelitiasis y colecistitis,155.00,Digestivo
+2019,Hernia abdominal,135.00,Digestivo
+2019,Apendicitis,35.00,Digestivo
+2019,Diabetes mellitus,459.00,Endócrino/Metabólico
+2019,Enfermedades del tiroides,59.00,Endócrino/Metabólico
+2019,Accidentes durante atención médica,830.00,Iatrogénico
+2019,Septicemia,4486.00,Infecciosas
+2019,Tuberculosis y secuelas,459.00,Infecciosas
+2019,Infecciones intestinales,69.00,Infecciosas
+2019,Tos convulsa,7.00,Infecciosas
+2019,Muertes perinatales,2863.00,Materno-Perinatal
+2019,Muerte materna,231.00,Materno-Perinatal
+2019,Ca. colon y recto,4285.00,Neoplasias
+2019,Ca. mama,3801.00,Neoplasias
+2019,Ca. cuello uterino,1226.00,Neoplasias
+2019,Leucemia,434.00,Neoplasias
+2019,Ca. cuerpo uterino,225.00,Neoplasias
+2019,Ca. testículo,184.00,Neoplasias
+2019,Ca. piel (no melanoma),135.00,Neoplasias
+2019,Enfermedad de Hodgkin,133.00,Neoplasias
+2019,Epilepsia,233.00,Neurológico
+2019,Neumonía,9347.00,Respiratorio
+2019,Enf. respiratorias excl. neumonía e influenza (1-14),142.00,Respiratorio
+2019,Influenza,25.00,Respiratorio
+2019,Nefritis y nefrosis,3506.00,Urogenital
+2019,Hiperplasia benigna de próstata,16.00,Urogenital
+2020,Enfermedad cerebrovascular,7627.00,Cardiovascular
+2020,Cardiopatía isquémica (50%),5038.50,Cardiovascular
+2020,Hipertensión arterial,2112.00,Cardiovascular
+2020,Enf. reumática cardíaca crónica,42.00,Cardiovascular
+2020,Anomalías cardiovasculares congénitas,615.00,Congénito
+2020,Úlcera péptica,149.00,Digestivo
+2020,Colelitiasis y colecistitis,127.00,Digestivo
+2020,Hernia abdominal,107.00,Digestivo
+2020,Apendicitis,44.00,Digestivo
+2020,Diabetes mellitus,541.00,Endócrino/Metabólico
+2020,Enfermedades del tiroides,48.00,Endócrino/Metabólico
+2020,Accidentes durante atención médica,629.00,Iatrogénico
+2020,Septicemia,4220.00,Infecciosas
+2020,Tuberculosis y secuelas,436.00,Infecciosas
+2020,Infecciones intestinales,33.00,Infecciosas
+2020,Tos convulsa,1.00,Infecciosas
+2020,Muertes perinatales,2408.00,Materno-Perinatal
+2020,Muerte materna,257.00,Materno-Perinatal
+2020,Ca. colon y recto,4274.00,Neoplasias
+2020,Ca. mama,3658.00,Neoplasias
+2020,Ca. cuello uterino,1101.00,Neoplasias
+2020,Leucemia,454.00,Neoplasias
+2020,Ca. cuerpo uterino,231.00,Neoplasias
+2020,Ca. testículo,217.00,Neoplasias
+2020,Ca. piel (no melanoma),140.00,Neoplasias
+2020,Enfermedad de Hodgkin,120.00,Neoplasias
+2020,Epilepsia,241.00,Neurológico
+2020,Neumonía,9088.00,Respiratorio
+2020,Enf. respiratorias excl. neumonía e influenza (1-14),100.00,Respiratorio
+2020,Influenza,1.00,Respiratorio
+2020,Nefritis y nefrosis,3266.00,Urogenital
+2020,Hiperplasia benigna de próstata,14.00,Urogenital
+2021,Enfermedad cerebrovascular,8070.00,Cardiovascular
+2021,Cardiopatía isquémica (50%),5468.50,Cardiovascular
+2021,Hipertensión arterial,2297.00,Cardiovascular
+2021,Enf. reumática cardíaca crónica,73.00,Cardiovascular
+2021,Anomalías cardiovasculares congénitas,632.00,Congénito
+2021,Úlcera péptica,166.00,Digestivo
+2021,Colelitiasis y colecistitis,150.00,Digestivo
+2021,Hernia abdominal,125.00,Digestivo
+2021,Apendicitis,55.00,Digestivo
+2021,Diabetes mellitus,601.00,Endócrino/Metabólico
+2021,Enfermedades del tiroides,50.00,Endócrino/Metabólico
+2021,Accidentes durante atención médica,686.00,Iatrogénico
+2021,Septicemia,5745.00,Infecciosas
+2021,Tuberculosis y secuelas,521.00,Infecciosas
+2021,Infecciones intestinales,52.00,Infecciosas
+2021,Muertes perinatales,2249.00,Materno-Perinatal
+2021,Muerte materna,475.00,Materno-Perinatal
+2021,Ca. colon y recto,4392.00,Neoplasias
+2021,Ca. mama,3848.00,Neoplasias
+2021,Ca. cuello uterino,1110.00,Neoplasias
+2021,Leucemia,417.00,Neoplasias
+2021,Ca. cuerpo uterino,224.00,Neoplasias
+2021,Ca. testículo,205.00,Neoplasias
+2021,Ca. piel (no melanoma),135.00,Neoplasias
+2021,Enfermedad de Hodgkin,117.00,Neoplasias
+2021,Epilepsia,301.00,Neurológico
+2021,Neumonía,12974.00,Respiratorio
+2021,Enf. respiratorias excl. neumonía e influenza (1-14),74.00,Respiratorio
+2021,Influenza,8.00,Respiratorio
+2021,Nefritis y nefrosis,3938.00,Urogenital
+2021,Hiperplasia benigna de próstata,15.00,Urogenital
+2022,Enfermedad cerebrovascular,8040.00,Cardiovascular
+2022,Cardiopatía isquémica (50%),5431.00,Cardiovascular
+2022,Hipertensión arterial,2443.00,Cardiovascular
+2022,Enf. reumática cardíaca crónica,81.00,Cardiovascular
+2022,Anomalías cardiovasculares congénitas,594.00,Congénito
+2022,Úlcera péptica,177.00,Digestivo
+2022,Hernia abdominal,143.00,Digestivo
+2022,Colelitiasis y colecistitis,125.00,Digestivo
+2022,Apendicitis,43.00,Digestivo
+2022,Diabetes mellitus,558.00,Endócrino/Metabólico
+2022,Enfermedades del tiroides,42.00,Endócrino/Metabólico
+2022,Accidentes durante atención médica,635.00,Iatrogénico
+2022,Septicemia,6228.00,Infecciosas
+2022,Tuberculosis y secuelas,527.00,Infecciosas
+2022,Infecciones intestinales,58.00,Infecciosas
+2022,Tétanos,1.00,Infecciosas
+2022,Muertes perinatales,2179.00,Materno-Perinatal
+2022,Muerte materna,228.00,Materno-Perinatal
+2022,Ca. colon y recto,4232.00,Neoplasias
+2022,Ca. mama,3719.00,Neoplasias
+2022,Ca. cuello uterino,1192.00,Neoplasias
+2022,Leucemia,441.00,Neoplasias
+2022,Ca. cuerpo uterino,212.00,Neoplasias
+2022,Ca. testículo,183.00,Neoplasias
+2022,Ca. piel (no melanoma),158.00,Neoplasias
+2022,Enfermedad de Hodgkin,101.00,Neoplasias
+2022,Epilepsia,330.00,Neurológico
+2022,Neumonía,11776.00,Respiratorio
+2022,Enf. respiratorias excl. neumonía e influenza (1-14),132.00,Respiratorio
+2022,Influenza,59.00,Respiratorio
+2022,Nefritis y nefrosis,3964.00,Urogenital
+2022,Hiperplasia benigna de próstata,13.00,Urogenital
+2023,Enfermedad cerebrovascular,7529.00,Cardiovascular
+2023,Cardiopatía isquémica (50%),5055.50,Cardiovascular
+2023,Hipertensión arterial,2156.00,Cardiovascular
+2023,Enf. reumática cardíaca crónica,70.00,Cardiovascular
+2023,Anomalías cardiovasculares congénitas,593.00,Congénito
+2023,Úlcera péptica,144.00,Digestivo
+2023,Hernia abdominal,126.00,Digestivo
+2023,Colelitiasis y colecistitis,123.00,Digestivo
+2023,Apendicitis,37.00,Digestivo
+2023,Diabetes mellitus,502.00,Endócrino/Metabólico
+2023,Enfermedades del tiroides,49.00,Endócrino/Metabólico
+2023,Accidentes durante atención médica,721.00,Iatrogénico
+2023,Septicemia,6836.00,Infecciosas
+2023,Tuberculosis y secuelas,615.00,Infecciosas
+2023,Infecciones intestinales,55.00,Infecciosas
+2023,Muertes perinatales,1921.00,Materno-Perinatal
+2023,Muerte materna,197.00,Materno-Perinatal
+2023,Ca. colon y recto,4439.00,Neoplasias
+2023,Ca. mama,3821.00,Neoplasias
+2023,Ca. cuello uterino,1281.00,Neoplasias
+2023,Leucemia,440.00,Neoplasias
+2023,Ca. cuerpo uterino,232.00,Neoplasias
+2023,Ca. testículo,212.00,Neoplasias
+2023,Ca. piel (no melanoma),169.00,Neoplasias
+2023,Enfermedad de Hodgkin,143.00,Neoplasias
+2023,Epilepsia,307.00,Neurológico
+2023,Neumonía,10294.00,Respiratorio
+2023,Enf. respiratorias excl. neumonía e influenza (1-14),125.00,Respiratorio
+2023,Influenza,27.00,Respiratorio
+2023,Nefritis y nefrosis,3788.00,Urogenital
+2023,Hiperplasia benigna de próstata,8.00,Urogenital
+2024,Enfermedad cerebrovascular,7875.00,Cardiovascular
+2024,Cardiopatía isquémica (50%),5164.50,Cardiovascular
+2024,Hipertensión arterial,1990.00,Cardiovascular
+2024,Enf. reumática cardíaca crónica,67.00,Cardiovascular
+2024,Anomalías cardiovasculares congénitas,613.00,Congénito
+2024,Úlcera péptica,158.00,Digestivo
+2024,Colelitiasis y colecistitis,144.00,Digestivo
+2024,Hernia abdominal,141.00,Digestivo
+2024,Apendicitis,39.00,Digestivo
+2024,Diabetes mellitus,515.00,Endócrino/Metabólico
+2024,Enfermedades del tiroides,57.00,Endócrino/Metabólico
+2024,Accidentes durante atención médica,737.00,Iatrogénico
+2024,Septicemia,7381.00,Infecciosas
+2024,Tuberculosis y secuelas,672.00,Infecciosas
+2024,Infecciones intestinales,35.00,Infecciosas
+2024,Tétanos,1.00,Infecciosas
+2024,Muertes perinatales,1951.00,Materno-Perinatal
+2024,Muerte materna,264.00,Materno-Perinatal
+2024,Ca. colon y recto,4591.00,Neoplasias
+2024,Ca. mama,3764.00,Neoplasias
+2024,Ca. cuello uterino,1396.00,Neoplasias
+2024,Leucemia,426.00,Neoplasias
+2024,Ca. cuerpo uterino,232.00,Neoplasias
+2024,Ca. testículo,202.00,Neoplasias
+2024,Ca. piel (no melanoma),157.00,Neoplasias
+2024,Enfermedad de Hodgkin,140.00,Neoplasias
+2024,Epilepsia,363.00,Neurológico
+2024,Neumonía,11604.00,Respiratorio
+2024,Enf. respiratorias excl. neumonía e influenza (1-14),112.00,Respiratorio
+2024,Influenza,69.00,Respiratorio
+2024,Nefritis y nefrosis,3720.00,Urogenital
+2024,Hiperplasia benigna de próstata,11.00,Urogenital
