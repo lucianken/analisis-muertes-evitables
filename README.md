@@ -4,6 +4,16 @@ Serie temporal de tasas de mortalidad evitable estandarizadas por edad, desagreg
 
 ---
 
+## Pendientes
+
+- [ ] **Corregir población 2005–2010**: los años 2005–2009 usan actualmente el valor de 2010 como aproximación porque la proyección INDEC base 2010 no retrocede. Reemplazar por la proyección base 2001 (o retropolación equivalente) para tener denominadores propios en ese período.
+
+- [ ] **Actualizar lista de causas evitables a OECD/Eurostat 2019**: la lista actual implementa Nolte & McKee 2003. La lista revisada de OECD/Eurostat (2019) amplía el set de causas e incorpora actualizaciones de la evidencia clínica (p. ej. algunos cánceres, VIH, diabetes). Ver: *OECD/Eurostat, "Avoidable mortality: OECD/Eurostat lists of preventable and treatable causes of death", 2019.*
+
+- [ ] **Cuantificar y documentar el sesgo por causas inespecíficas (R-codes)**: el análisis de calidad muestra ~7% de defunciones con código R por año. Cruzar con la literatura que estima el sesgo de subestimación generado por mal-clasificación (p. ej. Joubert et al. 2012, Mathers et al. 2005) para determinar si corresponde aplicar un factor de corrección o simplemente acotar la interpretación de las tasas en jurisdicciones con mayor proporción de R-codes.
+
+---
+
 ## Estructura del repositorio
 
 ```
